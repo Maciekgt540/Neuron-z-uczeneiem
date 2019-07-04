@@ -1,0 +1,1256 @@
+[Learn0] Error = 0.125976
+[Learn1] Error = 0.12392
+[Learn2] Error = 0.12356
+[Learn3] Error = 0.122383
+[Learn4] Error = 0.122185
+[Learn5] Error = 0.120775
+[Learn6] Error = 0.120346
+[Learn7] Error = 0.11817
+[Learn8] Error = 0.115125
+[Learn9] Error = 0.113119
+[Learn10] Error = 0.108458
+[Learn11] Error = 0.103594
+[Learn12] Error = 0.0981983
+[Learn13] Error = 0.0905258
+[Learn14] Error = 0.0838024
+[Learn15] Error = 0.0749525
+[Learn16] Error = 0.0709205
+[Learn17] Error = 0.0661651
+[Learn18] Error = 0.0639456
+[Learn19] Error = 0.0598867
+[Learn20] Error = 0.059512
+[Learn21] Error = 0.0592128
+[Learn22] Error = 0.056903
+[Learn23] Error = 0.0565838
+[Learn24] Error = 0.0567751
+[Learn25] Error = 0.055821
+[Learn26] Error = 0.055854
+[Learn27] Error = 0.0545262
+[Learn28] Error = 0.0539908
+[Learn29] Error = 0.0539115
+[Learn30] Error = 0.0538531
+[Learn31] Error = 0.0528004
+[Learn32] Error = 0.0515617
+[Learn33] Error = 0.0525044
+[Learn34] Error = 0.0511867
+[Learn35] Error = 0.0500658
+[Learn36] Error = 0.0497018
+[Learn37] Error = 0.0502443
+[Learn38] Error = 0.0476301
+[Learn39] Error = 0.0483907
+[Learn40] Error = 0.0463407
+[Learn41] Error = 0.0468901
+[Learn42] Error = 0.0456641
+[Learn43] Error = 0.0466113
+[Learn44] Error = 0.0451971
+[Learn45] Error = 0.0444892
+[Learn46] Error = 0.0444449
+[Learn47] Error = 0.0440262
+[Learn48] Error = 0.0437364
+[Learn49] Error = 0.0438676
+[Learn50] Error = 0.0435156
+[Learn51] Error = 0.0433569
+[Learn52] Error = 0.0431293
+[Learn53] Error = 0.0425487
+[Learn54] Error = 0.0431278
+[Learn55] Error = 0.0422789
+[Learn56] Error = 0.0414538
+[Learn57] Error = 0.0422734
+[Learn58] Error = 0.0420994
+[Learn59] Error = 0.0422713
+[Learn60] Error = 0.0413946
+[Learn61] Error = 0.0418624
+[Learn62] Error = 0.0410391
+[Learn63] Error = 0.0416165
+[Learn64] Error = 0.0411222
+[Learn65] Error = 0.040938
+[Learn66] Error = 0.0401886
+[Learn67] Error = 0.0410964
+[Learn68] Error = 0.0400819
+[Learn69] Error = 0.0408346
+[Learn70] Error = 0.0403513
+[Learn71] Error = 0.0405205
+[Learn72] Error = 0.0402982
+[Learn73] Error = 0.0401256
+[Learn74] Error = 0.0398114
+[Learn75] Error = 0.0398692
+[Learn76] Error = 0.0397294
+[Learn77] Error = 0.0394459
+[Learn78] Error = 0.0392821
+[Learn79] Error = 0.0393454
+[Learn80] Error = 0.0384473
+[Learn81] Error = 0.0377123
+[Learn82] Error = 0.0378485
+[Learn83] Error = 0.0382456
+[Learn84] Error = 0.0379219
+[Learn85] Error = 0.0382845
+[Learn86] Error = 0.0378331
+[Learn87] Error = 0.0374704
+[Learn88] Error = 0.0368227
+[Learn89] Error = 0.037673
+[Learn90] Error = 0.0356021
+[Learn91] Error = 0.0356522
+[Learn92] Error = 0.0361474
+[Learn93] Error = 0.0364227
+[Learn94] Error = 0.0355528
+[Learn95] Error = 0.0353255
+[Learn96] Error = 0.0352911
+[Learn97] Error = 0.0353263
+[Learn98] Error = 0.0353035
+[Learn99] Error = 0.0343917
+[Learn100] Error = 0.0333993
+[Learn101] Error = 0.0338371
+[Learn102] Error = 0.0336768
+[Learn103] Error = 0.0332168
+[Learn104] Error = 0.0318216
+[Learn105] Error = 0.0325738
+[Learn106] Error = 0.0320618
+[Learn107] Error = 0.0318759
+[Learn108] Error = 0.0313534
+[Learn109] Error = 0.0306134
+[Learn110] Error = 0.0301727
+[Learn111] Error = 0.0305339
+[Learn112] Error = 0.0301294
+[Learn113] Error = 0.0289453
+[Learn114] Error = 0.0285047
+[Learn115] Error = 0.0291299
+[Learn116] Error = 0.0285248
+[Learn117] Error = 0.027948
+[Learn118] Error = 0.028905
+[Learn119] Error = 0.0277795
+[Learn120] Error = 0.0270539
+[Learn121] Error = 0.0261771
+[Learn122] Error = 0.0263547
+[Learn123] Error = 0.0267687
+[Learn124] Error = 0.0259555
+[Learn125] Error = 0.024542
+[Learn126] Error = 0.0252576
+[Learn127] Error = 0.0246497
+[Learn128] Error = 0.0246561
+[Learn129] Error = 0.024626
+[Learn130] Error = 0.0231716
+[Learn131] Error = 0.0236637
+[Learn132] Error = 0.0228854
+[Learn133] Error = 0.0230521
+[Learn134] Error = 0.0236271
+[Learn135] Error = 0.0235631
+[Learn136] Error = 0.0222618
+[Learn137] Error = 0.0223693
+[Learn138] Error = 0.0214434
+[Learn139] Error = 0.0224002
+[Learn140] Error = 0.0219732
+[Learn141] Error = 0.0221965
+[Learn142] Error = 0.0212566
+[Learn143] Error = 0.0214973
+[Learn144] Error = 0.0207016
+[Learn145] Error = 0.0219147
+[Learn146] Error = 0.0210425
+[Learn147] Error = 0.0209815
+[Learn148] Error = 0.0201547
+[Learn149] Error = 0.0200412
+[Learn150] Error = 0.0202519
+[Learn151] Error = 0.0199233
+[Learn152] Error = 0.0203914
+[Learn153] Error = 0.0197103
+[Learn154] Error = 0.0192084
+[Learn155] Error = 0.0196323
+[Learn156] Error = 0.0193194
+[Learn157] Error = 0.0192092
+[Learn158] Error = 0.0193935
+[Learn159] Error = 0.0191289
+[Learn160] Error = 0.0187515
+[Learn161] Error = 0.0168499
+[Learn162] Error = 0.0188256
+[Learn163] Error = 0.0177781
+[Learn164] Error = 0.0183776
+[Learn165] Error = 0.0172528
+[Learn166] Error = 0.0182897
+[Learn167] Error = 0.0174368
+[Learn168] Error = 0.0185231
+[Learn169] Error = 0.0177261
+[Learn170] Error = 0.016785
+[Learn171] Error = 0.0176301
+[Learn172] Error = 0.0156154
+[Learn173] Error = 0.0160163
+[Learn174] Error = 0.0177529
+[Learn175] Error = 0.0180045
+[Learn176] Error = 0.016704
+[Learn177] Error = 0.0173294
+[Learn178] Error = 0.0164761
+[Learn179] Error = 0.0165917
+[Learn180] Error = 0.0167061
+[Learn181] Error = 0.0169576
+[Learn182] Error = 0.0160429
+[Learn183] Error = 0.0152479
+[Learn184] Error = 0.0165214
+[Learn185] Error = 0.0165911
+[Learn186] Error = 0.0153804
+[Learn187] Error = 0.0163813
+[Learn188] Error = 0.0160705
+[Learn189] Error = 0.0158392
+[Learn190] Error = 0.0162615
+[Learn191] Error = 0.016031
+[Learn192] Error = 0.0152496
+[Learn193] Error = 0.0158154
+[Learn194] Error = 0.0151711
+[Learn195] Error = 0.0157051
+[Learn196] Error = 0.0157092
+[Learn197] Error = 0.0150605
+[Learn198] Error = 0.0144391
+[Learn199] Error = 0.0167351
+[Learn200] Error = 0.0155387
+[Learn201] Error = 0.0150989
+[Learn202] Error = 0.0149253
+[Learn203] Error = 0.0144778
+[Learn204] Error = 0.015007
+[Learn205] Error = 0.0151194
+[Learn206] Error = 0.0148572
+[Learn207] Error = 0.0144353
+[Learn208] Error = 0.0144703
+[Learn209] Error = 0.0148995
+[Learn210] Error = 0.013824
+[Learn211] Error = 0.0155423
+[Learn212] Error = 0.0147478
+[Learn213] Error = 0.0143255
+[Learn214] Error = 0.0151475
+[Learn215] Error = 0.0146584
+[Learn216] Error = 0.0145273
+[Learn217] Error = 0.0143424
+[Learn218] Error = 0.0145228
+[Learn219] Error = 0.0150707
+[Learn220] Error = 0.0141525
+[Learn221] Error = 0.0133594
+[Learn222] Error = 0.0148883
+[Learn223] Error = 0.0130274
+[Learn224] Error = 0.0143629
+[Learn225] Error = 0.0137175
+[Learn226] Error = 0.0131016
+[Learn227] Error = 0.0136141
+[Learn228] Error = 0.0134392
+[Learn229] Error = 0.0138407
+[Learn230] Error = 0.0137892
+[Learn231] Error = 0.0143091
+[Learn232] Error = 0.0141981
+[Learn233] Error = 0.0123795
+[Learn234] Error = 0.012979
+[Learn235] Error = 0.0135195
+[Learn236] Error = 0.0133988
+[Learn237] Error = 0.0129337
+[Learn238] Error = 0.0138704
+[Learn239] Error = 0.0129936
+[Learn240] Error = 0.0131457
+[Learn241] Error = 0.0125456
+[Learn242] Error = 0.012628
+[Learn243] Error = 0.0129047
+[Learn244] Error = 0.0121994
+[Learn245] Error = 0.0130145
+[Learn246] Error = 0.0127954
+[Learn247] Error = 0.0122749
+[Learn248] Error = 0.0118501
+[Learn249] Error = 0.0133852
+[Learn250] Error = 0.0123584
+[Learn251] Error = 0.0131381
+[Learn252] Error = 0.0130595
+[Learn253] Error = 0.01284
+[Learn254] Error = 0.0130335
+[Learn255] Error = 0.0121471
+[Learn256] Error = 0.0123963
+[Learn257] Error = 0.0122307
+[Learn258] Error = 0.0115872
+[Learn259] Error = 0.0116294
+[Learn260] Error = 0.0117614
+[Learn261] Error = 0.012557
+[Learn262] Error = 0.0123923
+[Learn263] Error = 0.0117736
+[Learn264] Error = 0.0134366
+[Learn265] Error = 0.0117541
+[Learn266] Error = 0.0117086
+[Learn267] Error = 0.0129011
+[Learn268] Error = 0.0123161
+[Learn269] Error = 0.0117934
+[Learn270] Error = 0.011771
+[Learn271] Error = 0.0118842
+[Learn272] Error = 0.0122866
+[Learn273] Error = 0.0120102
+[Learn274] Error = 0.012074
+[Learn275] Error = 0.0127416
+[Learn276] Error = 0.0117467
+[Learn277] Error = 0.0118731
+[Learn278] Error = 0.0117917
+[Learn279] Error = 0.0119742
+[Learn280] Error = 0.012002
+[Learn281] Error = 0.0127948
+[Learn282] Error = 0.0113005
+[Learn283] Error = 0.0122455
+[Learn284] Error = 0.0107747
+[Learn285] Error = 0.011409
+[Learn286] Error = 0.0116042
+[Learn287] Error = 0.0103508
+[Learn288] Error = 0.010735
+[Learn289] Error = 0.0110132
+[Learn290] Error = 0.0114934
+[Learn291] Error = 0.0110473
+[Learn292] Error = 0.0112483
+[Learn293] Error = 0.0115121
+[Learn294] Error = 0.0109105
+[Learn295] Error = 0.0121509
+[Learn296] Error = 0.0109091
+[Learn297] Error = 0.0116981
+[Learn298] Error = 0.0102645
+[Learn299] Error = 0.0102379
+[Learn300] Error = 0.01039
+[Learn301] Error = 0.010038
+[Learn302] Error = 0.0104797
+[Learn303] Error = 0.0110981
+[Learn304] Error = 0.011396
+[Learn305] Error = 0.0105005
+[Learn306] Error = 0.0105536
+[Learn307] Error = 0.0105573
+[Learn308] Error = 0.0114512
+[Learn309] Error = 0.0105484
+[Learn310] Error = 0.0117767
+[Learn311] Error = 0.0108112
+[Learn312] Error = 0.0103562
+[Learn313] Error = 0.00951502
+[Learn314] Error = 0.0102417
+[Learn315] Error = 0.0104951
+[Learn316] Error = 0.0102242
+[Learn317] Error = 0.0102315
+[Learn318] Error = 0.0105359
+[Learn319] Error = 0.00987684
+[Learn320] Error = 0.0105923
+[Learn321] Error = 0.00983147
+[Learn322] Error = 0.0102548
+[Learn323] Error = 0.0122135
+[Learn324] Error = 0.00932212
+[Learn325] Error = 0.0097048
+[Learn326] Error = 0.00908419
+[Learn327] Error = 0.0106359
+[Learn328] Error = 0.0102942
+[Learn329] Error = 0.00954246
+[Learn330] Error = 0.0107535
+[Learn331] Error = 0.00962166
+[Learn332] Error = 0.00981066
+[Learn333] Error = 0.0108692
+[Learn334] Error = 0.0116635
+[Learn335] Error = 0.0101384
+[Learn336] Error = 0.0102911
+[Learn337] Error = 0.00870072
+[Learn338] Error = 0.009957
+[Learn339] Error = 0.0103318
+[Learn340] Error = 0.0103173
+[Learn341] Error = 0.0106857
+[Learn342] Error = 0.0100506
+[Learn343] Error = 0.00944916
+[Learn344] Error = 0.0104049
+[Learn345] Error = 0.0102359
+[Learn346] Error = 0.00949393
+[Learn347] Error = 0.00959369
+[Learn348] Error = 0.0106023
+[Learn349] Error = 0.00940649
+[Learn350] Error = 0.0110074
+[Learn351] Error = 0.00893997
+[Learn352] Error = 0.0101313
+[Learn353] Error = 0.00876356
+[Learn354] Error = 0.00966329
+[Learn355] Error = 0.0100874
+[Learn356] Error = 0.00980967
+[Learn357] Error = 0.0096849
+[Learn358] Error = 0.0100473
+[Learn359] Error = 0.0104065
+[Learn360] Error = 0.0105465
+[Learn361] Error = 0.00846616
+[Learn362] Error = 0.00919965
+[Learn363] Error = 0.00949699
+[Learn364] Error = 0.0101598
+[Learn365] Error = 0.0104722
+[Learn366] Error = 0.0115897
+[Learn367] Error = 0.00958297
+[Learn368] Error = 0.00975743
+[Learn369] Error = 0.00916471
+[Learn370] Error = 0.0098661
+[Learn371] Error = 0.00875125
+[Learn372] Error = 0.00854651
+[Learn373] Error = 0.0100067
+[Learn374] Error = 0.00919306
+[Learn375] Error = 0.0107218
+[Learn376] Error = 0.00933644
+[Learn377] Error = 0.00818203
+[Learn378] Error = 0.00855468
+[Learn379] Error = 0.00971328
+[Learn380] Error = 0.00898735
+[Learn381] Error = 0.0103849
+[Learn382] Error = 0.00823605
+[Learn383] Error = 0.00859945
+[Learn384] Error = 0.00874276
+[Learn385] Error = 0.00911565
+[Learn386] Error = 0.0077037
+[Learn387] Error = 0.0105792
+[Learn388] Error = 0.00959521
+[Learn389] Error = 0.00845492
+[Learn390] Error = 0.00878677
+[Learn391] Error = 0.0100108
+[Learn392] Error = 0.008294
+[Learn393] Error = 0.00945807
+[Learn394] Error = 0.00861995
+[Learn395] Error = 0.008843
+[Learn396] Error = 0.00898682
+[Learn397] Error = 0.0082231
+[Learn398] Error = 0.00967827
+[Learn399] Error = 0.00821367
+[Learn400] Error = 0.00824843
+[Learn401] Error = 0.00850772
+[Learn402] Error = 0.00799141
+[Learn403] Error = 0.00938621
+[Learn404] Error = 0.00890415
+[Learn405] Error = 0.00837943
+[Learn406] Error = 0.00799813
+[Learn407] Error = 0.00897953
+[Learn408] Error = 0.00839802
+[Learn409] Error = 0.00801942
+[Learn410] Error = 0.00867704
+[Learn411] Error = 0.00960809
+[Learn412] Error = 0.00869872
+[Learn413] Error = 0.00786979
+[Learn414] Error = 0.0088521
+[Learn415] Error = 0.00834715
+[Learn416] Error = 0.00877492
+[Learn417] Error = 0.00830528
+[Learn418] Error = 0.00861124
+[Learn419] Error = 0.00866431
+[Learn420] Error = 0.00796444
+[Learn421] Error = 0.00780951
+[Learn422] Error = 0.00715686
+[Learn423] Error = 0.00783832
+[Learn424] Error = 0.00800786
+[Learn425] Error = 0.00817914
+[Learn426] Error = 0.00860697
+[Learn427] Error = 0.00889304
+[Learn428] Error = 0.00809693
+[Learn429] Error = 0.00846851
+[Learn430] Error = 0.00839971
+[Learn431] Error = 0.00833181
+[Learn432] Error = 0.00815857
+[Learn433] Error = 0.00774802
+[Learn434] Error = 0.00743734
+[Learn435] Error = 0.00727644
+[Learn436] Error = 0.00744894
+[Learn437] Error = 0.00811718
+[Learn438] Error = 0.0078013
+[Learn439] Error = 0.00786186
+[Learn440] Error = 0.00733368
+[Learn441] Error = 0.00834185
+[Learn442] Error = 0.00731192
+[Learn443] Error = 0.00753588
+[Learn444] Error = 0.00691839
+[Learn445] Error = 0.00966562
+[Learn446] Error = 0.00779656
+[Learn447] Error = 0.00769403
+[Learn448] Error = 0.00864518
+[Learn449] Error = 0.00736661
+[Learn450] Error = 0.00787852
+[Learn451] Error = 0.00882718
+[Learn452] Error = 0.00759945
+[Learn453] Error = 0.00711586
+[Learn454] Error = 0.00726142
+[Learn455] Error = 0.00841619
+[Learn456] Error = 0.007689
+[Learn457] Error = 0.00771469
+[Learn458] Error = 0.0079384
+[Learn459] Error = 0.00781299
+[Learn460] Error = 0.0074937
+[Learn461] Error = 0.00729724
+[Learn462] Error = 0.00805074
+[Learn463] Error = 0.00919045
+[Learn464] Error = 0.00785155
+[Learn465] Error = 0.00725731
+[Learn466] Error = 0.00818354
+[Learn467] Error = 0.00763179
+[Learn468] Error = 0.00741462
+[Learn469] Error = 0.00804494
+[Learn470] Error = 0.00699152
+[Learn471] Error = 0.00808485
+[Learn472] Error = 0.00679015
+[Learn473] Error = 0.00782541
+[Learn474] Error = 0.00735809
+[Learn475] Error = 0.00828769
+[Learn476] Error = 0.00837813
+[Learn477] Error = 0.00822953
+[Learn478] Error = 0.00708369
+[Learn479] Error = 0.00837436
+[Learn480] Error = 0.00799559
+[Learn481] Error = 0.00728313
+[Learn482] Error = 0.00711554
+[Learn483] Error = 0.00805004
+[Learn484] Error = 0.00776552
+[Learn485] Error = 0.00744883
+[Learn486] Error = 0.00677323
+[Learn487] Error = 0.00706355
+[Learn488] Error = 0.00711349
+[Learn489] Error = 0.00783942
+[Learn490] Error = 0.00763568
+[Learn491] Error = 0.00646969
+[Learn492] Error = 0.00684305
+[Learn493] Error = 0.00782059
+[Learn494] Error = 0.00728893
+[Learn495] Error = 0.00750361
+[Learn496] Error = 0.0078885
+[Learn497] Error = 0.00663491
+[Learn498] Error = 0.00694957
+[Learn499] Error = 0.0073008
+[Learn500] Error = 0.00708429
+[Learn501] Error = 0.00739645
+[Learn502] Error = 0.00967755
+[Learn503] Error = 0.00721745
+[Learn504] Error = 0.0072078
+[Learn505] Error = 0.00886027
+[Learn506] Error = 0.00739229
+[Learn507] Error = 0.00797518
+[Learn508] Error = 0.0100695
+[Learn509] Error = 0.0100301
+[Learn510] Error = 0.00863831
+[Learn511] Error = 0.00703258
+[Learn512] Error = 0.00772453
+[Learn513] Error = 0.00811201
+[Learn514] Error = 0.00766623
+[Learn515] Error = 0.00761846
+[Learn516] Error = 0.00759814
+[Learn517] Error = 0.00773671
+[Learn518] Error = 0.00753637
+[Learn519] Error = 0.00864967
+[Learn520] Error = 0.00668421
+[Learn521] Error = 0.00798457
+[Learn522] Error = 0.00755152
+[Learn523] Error = 0.0108525
+[Learn524] Error = 0.00891608
+[Learn525] Error = 0.00737217
+[Learn526] Error = 0.00868421
+[Learn527] Error = 0.00753232
+[Learn528] Error = 0.00805486
+[Learn529] Error = 0.0075034
+[Learn530] Error = 0.0074929
+[Learn531] Error = 0.00819891
+[Learn532] Error = 0.0090833
+[Learn533] Error = 0.00855643
+[Learn534] Error = 0.00864763
+[Learn535] Error = 0.00634545
+[Learn536] Error = 0.0080358
+[Learn537] Error = 0.00670765
+[Learn538] Error = 0.00782053
+[Learn539] Error = 0.00645974
+[Learn540] Error = 0.00770048
+[Learn541] Error = 0.00659811
+[Learn542] Error = 0.00620814
+[Learn543] Error = 0.00673459
+[Learn544] Error = 0.00652131
+[Learn545] Error = 0.00636182
+[Learn546] Error = 0.00628813
+[Learn547] Error = 0.00664575
+[Learn548] Error = 0.00697929
+[Learn549] Error = 0.00636358
+[Learn550] Error = 0.00593941
+[Learn551] Error = 0.00731179
+[Learn552] Error = 0.00930797
+[Learn553] Error = 0.00788821
+[Learn554] Error = 0.00736461
+[Learn555] Error = 0.00741884
+[Learn556] Error = 0.00849043
+[Learn557] Error = 0.00745647
+[Learn558] Error = 0.00809926
+[Learn559] Error = 0.00671908
+[Learn560] Error = 0.00660114
+[Learn561] Error = 0.00621127
+[Learn562] Error = 0.00698264
+[Learn563] Error = 0.00695536
+[Learn564] Error = 0.00907169
+[Learn565] Error = 0.00854037
+[Learn566] Error = 0.00699919
+[Learn567] Error = 0.00893249
+[Learn568] Error = 0.00741141
+[Learn569] Error = 0.00822178
+[Learn570] Error = 0.00786285
+[Learn571] Error = 0.0078136
+[Learn572] Error = 0.00733143
+[Learn573] Error = 0.00691367
+[Learn574] Error = 0.00686859
+[Learn575] Error = 0.00656535
+[Learn576] Error = 0.00721667
+[Learn577] Error = 0.00644496
+[Learn578] Error = 0.00726805
+[Learn579] Error = 0.00633714
+[Learn580] Error = 0.00773571
+[Learn581] Error = 0.00749756
+[Learn582] Error = 0.0103055
+[Learn583] Error = 0.00929247
+[Learn584] Error = 0.00658809
+[Learn585] Error = 0.00663831
+[Learn586] Error = 0.00583562
+[Learn587] Error = 0.00764371
+[Learn588] Error = 0.00681385
+[Learn589] Error = 0.00593485
+[Learn590] Error = 0.00620257
+[Learn591] Error = 0.00685053
+[Learn592] Error = 0.00852237
+[Learn593] Error = 0.00710912
+[Learn594] Error = 0.00704745
+[Learn595] Error = 0.00614034
+[Learn596] Error = 0.00987105
+[Learn597] Error = 0.00640527
+[Learn598] Error = 0.00652231
+[Learn599] Error = 0.00640404
+[Learn600] Error = 0.0065805
+[Learn601] Error = 0.00690032
+[Learn602] Error = 0.00766126
+[Learn603] Error = 0.00754605
+[Learn604] Error = 0.0078795
+[Learn605] Error = 0.0068392
+[Learn606] Error = 0.00714463
+[Learn607] Error = 0.00633639
+[Learn608] Error = 0.00693993
+[Learn609] Error = 0.00665685
+[Learn610] Error = 0.00623671
+[Learn611] Error = 0.00589358
+[Learn612] Error = 0.00649836
+[Learn613] Error = 0.00544242
+[Learn614] Error = 0.00716286
+[Learn615] Error = 0.00870374
+[Learn616] Error = 0.00641912
+[Learn617] Error = 0.00647412
+[Learn618] Error = 0.00658639
+[Learn619] Error = 0.00577307
+[Learn620] Error = 0.00762279
+[Learn621] Error = 0.00650427
+[Learn622] Error = 0.00798744
+[Learn623] Error = 0.00863495
+[Learn624] Error = 0.00631763
+[Learn625] Error = 0.005822
+[Learn626] Error = 0.00568179
+[Learn627] Error = 0.0109732
+[Learn628] Error = 0.00925163
+[Learn629] Error = 0.00639165
+[Learn630] Error = 0.00739582
+[Learn631] Error = 0.0074772
+[Learn632] Error = 0.00555987
+[Learn633] Error = 0.00671313
+[Learn634] Error = 0.00623962
+[Learn635] Error = 0.00517765
+[Learn636] Error = 0.00629965
+[Learn637] Error = 0.0075552
+[Learn638] Error = 0.00690273
+[Learn639] Error = 0.00729336
+[Learn640] Error = 0.00748769
+[Learn641] Error = 0.00685056
+[Learn642] Error = 0.00947963
+[Learn643] Error = 0.00692658
+[Learn644] Error = 0.00912257
+[Learn645] Error = 0.00671888
+[Learn646] Error = 0.00629005
+[Learn647] Error = 0.00592463
+[Learn648] Error = 0.00661614
+[Learn649] Error = 0.00664022
+[Learn650] Error = 0.00552192
+[Learn651] Error = 0.00719457
+[Learn652] Error = 0.0076571
+[Learn653] Error = 0.00732973
+[Learn654] Error = 0.00608064
+[Learn655] Error = 0.00637326
+[Learn656] Error = 0.00678697
+[Learn657] Error = 0.0064877
+[Learn658] Error = 0.00791731
+[Learn659] Error = 0.00727814
+[Learn660] Error = 0.00601725
+[Learn661] Error = 0.00693047
+[Learn662] Error = 0.00732398
+[Learn663] Error = 0.00678559
+[Learn664] Error = 0.00570546
+[Learn665] Error = 0.00581004
+[Learn666] Error = 0.00635709
+[Learn667] Error = 0.00579259
+[Learn668] Error = 0.006524
+[Learn669] Error = 0.00644829
+[Learn670] Error = 0.00766122
+[Learn671] Error = 0.00819941
+[Learn672] Error = 0.0065422
+[Learn673] Error = 0.00614585
+[Learn674] Error = 0.00697281
+[Learn675] Error = 0.00637399
+[Learn676] Error = 0.00529797
+[Learn677] Error = 0.00695017
+[Learn678] Error = 0.00874873
+[Learn679] Error = 0.00607293
+[Learn680] Error = 0.00791224
+[Learn681] Error = 0.00765132
+[Learn682] Error = 0.00687602
+[Learn683] Error = 0.00562462
+[Learn684] Error = 0.00808191
+[Learn685] Error = 0.00737856
+[Learn686] Error = 0.00653747
+[Learn687] Error = 0.00588882
+[Learn688] Error = 0.00617763
+[Learn689] Error = 0.00640667
+[Learn690] Error = 0.00663233
+[Learn691] Error = 0.00526614
+[Learn692] Error = 0.00594447
+[Learn693] Error = 0.00648833
+[Learn694] Error = 0.00639814
+[Learn695] Error = 0.00584064
+[Learn696] Error = 0.00853903
+[Learn697] Error = 0.00792366
+[Learn698] Error = 0.00777833
+[Learn699] Error = 0.006319
+[Learn700] Error = 0.00577036
+[Learn701] Error = 0.00554298
+[Learn702] Error = 0.00789933
+[Learn703] Error = 0.00581141
+[Learn704] Error = 0.0063187
+[Learn705] Error = 0.00565922
+[Learn706] Error = 0.00582505
+[Learn707] Error = 0.00546231
+[Learn708] Error = 0.00595699
+[Learn709] Error = 0.00585789
+[Learn710] Error = 0.0072978
+[Learn711] Error = 0.00754057
+[Learn712] Error = 0.00788857
+[Learn713] Error = 0.00720313
+[Learn714] Error = 0.00601658
+[Learn715] Error = 0.00747243
+[Learn716] Error = 0.00628703
+[Learn717] Error = 0.00666734
+[Learn718] Error = 0.00576929
+[Learn719] Error = 0.00523437
+[Learn720] Error = 0.00547545
+[Learn721] Error = 0.0080454
+[Learn722] Error = 0.0052028
+[Learn723] Error = 0.00523362
+[Learn724] Error = 0.00512915
+[Learn725] Error = 0.00513496
+[Learn726] Error = 0.00519316
+[Learn727] Error = 0.00517541
+[Learn728] Error = 0.00507425
+[Learn729] Error = 0.00518607
+[Learn730] Error = 0.00608484
+[Learn731] Error = 0.00606531
+[Learn732] Error = 0.00765704
+[Learn733] Error = 0.00629424
+[Learn734] Error = 0.00626345
+[Learn735] Error = 0.00608587
+[Learn736] Error = 0.00944162
+[Learn737] Error = 0.00782857
+[Learn738] Error = 0.00832165
+[Learn739] Error = 0.00795613
+[Learn740] Error = 0.00780249
+[Learn741] Error = 0.00998998
+[Learn742] Error = 0.00873747
+[Learn743] Error = 0.00893359
+[Learn744] Error = 0.00684189
+[Learn745] Error = 0.00697207
+[Learn746] Error = 0.00562806
+[Learn747] Error = 0.00607069
+[Learn748] Error = 0.00559995
+[Learn749] Error = 0.00684694
+[Learn750] Error = 0.00603201
+[Learn751] Error = 0.00531062
+[Learn752] Error = 0.00531953
+[Learn753] Error = 0.00540045
+[Learn754] Error = 0.00556137
+[Learn755] Error = 0.00632709
+[Learn756] Error = 0.00562229
+[Learn757] Error = 0.00538584
+[Learn758] Error = 0.00533694
+[Learn759] Error = 0.00485812
+[Learn760] Error = 0.00507322
+[Learn761] Error = 0.0049927
+[Learn762] Error = 0.00509977
+[Learn763] Error = 0.00535382
+[Learn764] Error = 0.00554082
+[Learn765] Error = 0.00840272
+[Learn766] Error = 0.00542447
+[Learn767] Error = 0.00516353
+[Learn768] Error = 0.00652352
+[Learn769] Error = 0.00607658
+[Learn770] Error = 0.00596824
+[Learn771] Error = 0.00597686
+[Learn772] Error = 0.00787772
+[Learn773] Error = 0.00508815
+[Learn774] Error = 0.00553306
+[Learn775] Error = 0.00889085
+[Learn776] Error = 0.00598817
+[Learn777] Error = 0.00644654
+[Learn778] Error = 0.00489965
+[Learn779] Error = 0.00587848
+[Learn780] Error = 0.00535464
+[Learn781] Error = 0.00544575
+[Learn782] Error = 0.00474639
+[Learn783] Error = 0.00472547
+[Learn784] Error = 0.00513999
+[Learn785] Error = 0.00549484
+[Learn786] Error = 0.00518608
+[Learn787] Error = 0.00497999
+[Learn788] Error = 0.00479747
+[Learn789] Error = 0.0047649
+[Learn790] Error = 0.00499592
+[Learn791] Error = 0.0105982
+[Learn792] Error = 0.00677112
+[Learn793] Error = 0.00797597
+[Learn794] Error = 0.00501977
+[Learn795] Error = 0.00711536
+[Learn796] Error = 0.00547955
+[Learn797] Error = 0.00507773
+[Learn798] Error = 0.00563399
+[Learn799] Error = 0.00665614
+[Learn800] Error = 0.00562838
+[Learn801] Error = 0.00519207
+[Learn802] Error = 0.00486999
+[Learn803] Error = 0.00483105
+[Learn804] Error = 0.004725
+[Learn805] Error = 0.0050194
+[Learn806] Error = 0.00460658
+[Learn807] Error = 0.00496475
+[Learn808] Error = 0.00468645
+[Learn809] Error = 0.00464306
+[Learn810] Error = 0.00442646
+[Learn811] Error = 0.00477199
+[Learn812] Error = 0.0107823
+[Learn813] Error = 0.00916358
+[Learn814] Error = 0.00755405
+[Learn815] Error = 0.00596374
+[Learn816] Error = 0.0053547
+[Learn817] Error = 0.00573738
+[Learn818] Error = 0.00495244
+[Learn819] Error = 0.00544052
+[Learn820] Error = 0.00507948
+[Learn821] Error = 0.00488999
+[Learn822] Error = 0.0045805
+[Learn823] Error = 0.00458179
+[Learn824] Error = 0.00499603
+[Learn825] Error = 0.00479008
+[Learn826] Error = 0.00456559
+[Learn827] Error = 0.00450044
+[Learn828] Error = 0.00467367
+[Learn829] Error = 0.0047139
+[Learn830] Error = 0.00457564
+[Learn831] Error = 0.00462106
+[Learn832] Error = 0.00478889
+[Learn833] Error = 0.00770291
+[Learn834] Error = 0.00613351
+[Learn835] Error = 0.0102737
+[Learn836] Error = 0.00716168
+[Learn837] Error = 0.00917267
+[Learn838] Error = 0.0105606
+[Learn839] Error = 0.00555272
+[Learn840] Error = 0.00662841
+[Learn841] Error = 0.005723
+[Learn842] Error = 0.00645791
+[Learn843] Error = 0.00533268
+[Learn844] Error = 0.00486025
+[Learn845] Error = 0.00476704
+[Learn846] Error = 0.00661566
+[Learn847] Error = 0.00525154
+[Learn848] Error = 0.00599553
+[Learn849] Error = 0.00613139
+[Learn850] Error = 0.00617203
+[Learn851] Error = 0.00484293
+[Learn852] Error = 0.0056351
+[Learn853] Error = 0.00715504
+[Learn854] Error = 0.00542095
+[Learn855] Error = 0.00771339
+[Learn856] Error = 0.00879208
+[Learn857] Error = 0.00465541
+[Learn858] Error = 0.00477485
+[Learn859] Error = 0.00537433
+[Learn860] Error = 0.00483661
+[Learn861] Error = 0.00480555
+[Learn862] Error = 0.00469207
+[Learn863] Error = 0.00454413
+[Learn864] Error = 0.00614317
+[Learn865] Error = 0.00579784
+[Learn866] Error = 0.00440775
+[Learn867] Error = 0.00456674
+[Learn868] Error = 0.00457327
+[Learn869] Error = 0.00450463
+[Learn870] Error = 0.00449974
+[Learn871] Error = 0.00480614
+[Learn872] Error = 0.00464691
+[Learn873] Error = 0.00446623
+[Learn874] Error = 0.00452125
+[Learn875] Error = 0.00474981
+[Learn876] Error = 0.00539852
+[Learn877] Error = 0.00454557
+[Learn878] Error = 0.00452935
+[Learn879] Error = 0.00438446
+[Learn880] Error = 0.0044711
+[Learn881] Error = 0.00450173
+[Learn882] Error = 0.00438224
+[Learn883] Error = 0.00452464
+[Learn884] Error = 0.00440904
+[Learn885] Error = 0.00429796
+[Learn886] Error = 0.00441964
+[Learn887] Error = 0.00448811
+[Learn888] Error = 0.00455585
+[Learn889] Error = 0.00445592
+[Learn890] Error = 0.00435014
+[Learn891] Error = 0.00444947
+[Learn892] Error = 0.00515023
+[Learn893] Error = 0.00909999
+[Learn894] Error = 0.00951875
+[Learn895] Error = 0.00562064
+[Learn896] Error = 0.00539287
+[Learn897] Error = 0.00470327
+[Learn898] Error = 0.00464544
+[Learn899] Error = 0.00454914
+[Learn900] Error = 0.00457105
+[Learn901] Error = 0.00452953
+[Learn902] Error = 0.00438224
+[Learn903] Error = 0.0044678
+[Learn904] Error = 0.00441341
+[Learn905] Error = 0.00437226
+[Learn906] Error = 0.00447919
+[Learn907] Error = 0.00445621
+[Learn908] Error = 0.00431827
+[Learn909] Error = 0.00432662
+[Learn910] Error = 0.00439191
+[Learn911] Error = 0.00445114
+[Learn912] Error = 0.00433668
+[Learn913] Error = 0.00446286
+[Learn914] Error = 0.00432655
+[Learn915] Error = 0.00433565
+[Learn916] Error = 0.00429619
+[Learn917] Error = 0.00428393
+[Learn918] Error = 0.00431492
+[Learn919] Error = 0.00434773
+[Learn920] Error = 0.00440245
+[Learn921] Error = 0.00428552
+[Learn922] Error = 0.0042948
+[Learn923] Error = 0.00431023
+[Learn924] Error = 0.0042638
+[Learn925] Error = 0.00428554
+[Learn926] Error = 0.00427069
+[Learn927] Error = 0.00423876
+[Learn928] Error = 0.00429318
+[Learn929] Error = 0.00432385
+[Learn930] Error = 0.00430029
+[Learn931] Error = 0.00426022
+[Learn932] Error = 0.00433594
+[Learn933] Error = 0.00440426
+[Learn934] Error = 0.00428131
+[Learn935] Error = 0.004275
+[Learn936] Error = 0.0042788
+[Learn937] Error = 0.00429126
+[Learn938] Error = 0.00429497
+[Learn939] Error = 0.0042635
+[Learn940] Error = 0.00429174
+[Learn941] Error = 0.00426135
+[Learn942] Error = 0.00432269
+[Learn943] Error = 0.00423299
+[Learn944] Error = 0.00433891
+[Learn945] Error = 0.00426809
+[Learn946] Error = 0.00433809
+[Learn947] Error = 0.00422449
+[Learn948] Error = 0.00423993
+[Learn949] Error = 0.00420214
+[Learn950] Error = 0.00428054
+[Learn951] Error = 0.00423825
+[Learn952] Error = 0.00424388
+[Learn953] Error = 0.00427017
+[Learn954] Error = 0.0042585
+[Learn955] Error = 0.00424273
+[Learn956] Error = 0.00426074
+[Learn957] Error = 0.00423623
+[Learn958] Error = 0.00424889
+[Learn959] Error = 0.00451104
+[Learn960] Error = 0.00429844
+[Learn961] Error = 0.00423722
+[Learn962] Error = 0.00427799
+[Learn963] Error = 0.00421833
+[Learn964] Error = 0.00420745
+[Learn965] Error = 0.00422432
+[Learn966] Error = 0.00420818
+[Learn967] Error = 0.0042319
+[Learn968] Error = 0.00425702
+[Learn969] Error = 0.00419296
+[Learn970] Error = 0.00421733
+[Learn971] Error = 0.00423881
+[Learn972] Error = 0.00428276
+[Learn973] Error = 0.00422118
+[Learn974] Error = 0.0042302
+[Learn975] Error = 0.00423396
+[Learn976] Error = 0.00421002
+[Learn977] Error = 0.00422048
+[Learn978] Error = 0.00423167
+[Learn979] Error = 0.0042055
+[Learn980] Error = 0.00422189
+[Learn981] Error = 0.00421059
+[Learn982] Error = 0.00418413
+[Learn983] Error = 0.00424701
+[Learn984] Error = 0.0042163
+[Learn985] Error = 0.00418762
+[Learn986] Error = 0.00423599
+[Learn987] Error = 0.00420461
+[Learn988] Error = 0.00420577
+[Learn989] Error = 0.00420601
+[Learn990] Error = 0.00421856
+[Learn991] Error = 0.00420423
+[Learn992] Error = 0.00420423
+[Learn993] Error = 0.00420625
+[Learn994] Error = 0.00422137
+[Learn995] Error = 0.0041939
+[Learn996] Error = 0.0042365
+[Learn997] Error = 0.00418381
+[Learn998] Error = 0.00419908
+[Learn999] Error = 0.0041899
+
+
+[GOOD][Test 1] 0.985074
+[GOOD][Test 2] 0.999991
+[FAIL][Test 3] 0.999974
+[GOOD][Test 4] 0.0243339
+[GOOD][Test 5] 0.00616153
+[GOOD][Test 6] 0.999996
+[GOOD][Test 7] 0.972848
+[GOOD][Test 8] 0.00448625
+[GOOD][Test 9] 0.0805918
+[GOOD][Test 10] 1.35566e-006
+[GOOD][Test 11] 0.999851
+[GOOD][Test 12] 0.000168949
+[GOOD][Test 13] 6.00946e-006
+[FAIL][Test 14] 0.999999
+[GOOD][Test 15] 0.999996
+[GOOD][Test 16] 0.915517
+[GOOD][Test 17] 0.999985
+[GOOD][Test 18] 0.999992
+[GOOD][Test 19] 0.99998
+[GOOD][Test 20] 0.99991
+[GOOD][Test 21] 0.999999
+[GOOD][Test 22] 0.999999
+[GOOD][Test 23] 0.999906
+[GOOD][Test 24] 0.999976
+[GOOD][Test 25] 1.08718e-006
+[GOOD][Test 26] 0.999999
+[GOOD][Test 27] 0.0229495
+[GOOD][Test 28] 0.994673
+[GOOD][Test 29] 0.997654
+[GOOD][Test 30] 0.999999
+[GOOD][Test 31] 0.99998
+[GOOD][Test 32] 0.0260328
+[GOOD][Test 33] 0.999996
+[GOOD][Test 34] 0.999686
+[GOOD][Test 35] 0.999999
+[GOOD][Test 36] 0.996153
+[GOOD][Test 37] 7.75976e-006
+[GOOD][Test 38] 0.0543693
+[GOOD][Test 39] 4.99892e-006
+[GOOD][Test 40] 0.999998
+[GOOD][Test 41] 0.973069
+[GOOD][Test 42] 1.18634e-006
+[GOOD][Test 43] 0.999992
+[GOOD][Test 44] 0.0391276
+[GOOD][Test 45] 0.999999
+[GOOD][Test 46] 2.49769e-005
+[GOOD][Test 47] 3.08311e-006
+[GOOD][Test 48] 0.0135501
+[GOOD][Test 49] 0.0411732
+[GOOD][Test 50] 0.99795
+[GOOD][Test 51] 0.968434
+[GOOD][Test 52] 0.999999
+[GOOD][Test 53] 0.999997
+[GOOD][Test 54] 0.99999
+[GOOD][Test 55] 0.999957
+[GOOD][Test 56] 0.999999
+[GOOD][Test 57] 0.956967
+[GOOD][Test 58] 4.80801e-005
+[GOOD][Test 59] 0.0305505
+[GOOD][Test 60] 6.8371e-006
+[GOOD][Test 61] 0.862121
+[GOOD][Test 62] 0.942052
+[GOOD][Test 63] 4.29097e-005
+[GOOD][Test 64] 0.999556
+[GOOD][Test 65] 0.999998
+[GOOD][Test 66] 0.000574021
+[GOOD][Test 67] 0.997215
+[GOOD][Test 68] 0.999984
+[GOOD][Test 69] 0.000334187
+[GOOD][Test 70] 0.023746
+[GOOD][Test 71] 0.976186
+[GOOD][Test 72] 1.07372e-006
+[GOOD][Test 73] 9.27531e-007
+[GOOD][Test 74] 1.8343e-006
+[GOOD][Test 75] 0.996594
+[GOOD][Test 76] 2.38081e-006
+[GOOD][Test 77] 1.09047e-006
+[GOOD][Test 78] 0.000981033
+[GOOD][Test 79] 0.00519807
+[GOOD][Test 80] 0.160772
+[GOOD][Test 81] 8.55102e-006
+[GOOD][Test 82] 1.26902e-006
+[GOOD][Test 83] 0.99989
+[GOOD][Test 84] 0.951136
+[GOOD][Test 85] 0.000813846
+[GOOD][Test 86] 0.00158407
+[GOOD][Test 87] 0.999998
+[GOOD][Test 88] 0.992058
+[GOOD][Test 89] 0.986111
+[GOOD][Test 90] 0.999998
+[GOOD][Test 91] 0.999521
+[GOOD][Test 92] 0.00957241
+[GOOD][Test 93] 0.000391135
+[GOOD][Test 94] 0.00971056
+[GOOD][Test 95] 0.999998
+[GOOD][Test 96] 0.997621
+[GOOD][Test 97] 1.7386e-006
+[GOOD][Test 98] 0.999976
+[GOOD][Test 99] 1.21947e-005
+[GOOD][Test 100] 0.999277
+[GOOD][Test 101] 0.000168195
+[GOOD][Test 102] 2.48015e-006
+[GOOD][Test 103] 0.999999
+[GOOD][Test 104] 0.999963
+[GOOD][Test 105] 0.999948
+[GOOD][Test 106] 0.999997
+[GOOD][Test 107] 0.999999
+[FAIL][Test 108] 0.999986
+[GOOD][Test 109] 0.999997
+[GOOD][Test 110] 0.999999
+[GOOD][Test 111] 0.999879
+[GOOD][Test 112] 6.04291e-006
+[GOOD][Test 113] 1.83018e-006
+[GOOD][Test 114] 0.000128105
+[GOOD][Test 115] 1.03586e-006
+[GOOD][Test 116] 0.0230211
+[GOOD][Test 117] 0.0460501
+[GOOD][Test 118] 1.44436e-006
+[GOOD][Test 119] 0.999681
+[GOOD][Test 120] 6.69532e-005
+[GOOD][Test 121] 0.0160373
+[GOOD][Test 122] 0.000685597
+[GOOD][Test 123] 3.56579e-005
+[GOOD][Test 124] 0.999997
+[GOOD][Test 125] 0.999976
+[GOOD][Test 126] 0.999998
+[GOOD][Test 127] 0.999956
+[GOOD][Test 128] 0.00350587
+[GOOD][Test 129] 3.87091e-005
+[GOOD][Test 130] 2.47937e-006
+[GOOD][Test 131] 0.999934
+[GOOD][Test 132] 0.99997
+[GOOD][Test 133] 0.999984
+[GOOD][Test 134] 0.000568177
+[GOOD][Test 135] 0.999991
+[GOOD][Test 136] 0.999986
+[GOOD][Test 137] 2.22698e-006
+[GOOD][Test 138] 0.999991
+[GOOD][Test 139] 0.0142119
+[GOOD][Test 140] 0.999977
+[GOOD][Test 141] 0.0625382
+[GOOD][Test 142] 0.000134403
+[GOOD][Test 143] 0.932557
+[GOOD][Test 144] 0.996851
+[GOOD][Test 145] 0.999985
+[GOOD][Test 146] 0.0333118
+[GOOD][Test 147] 2.61191e-006
+[GOOD][Test 148] 0.000698956
+[GOOD][Test 149] 0.975521
+[GOOD][Test 150] 0.957243
+[GOOD][Test 151] 0.998183
+[GOOD][Test 152] 0.97558
+[GOOD][Test 153] 0.00460741
+[GOOD][Test 154] 0.999989
+[GOOD][Test 155] 0.999893
+[GOOD][Test 156] 0.999987
+[GOOD][Test 157] 0.999972
+[GOOD][Test 158] 0.999838
+[GOOD][Test 159] 0.999992
+[GOOD][Test 160] 0.924043
+[GOOD][Test 161] 0.999991
+[GOOD][Test 162] 0.000379991
+[FAIL][Test 163] 0.999996
+[GOOD][Test 164] 0.00155836
+[GOOD][Test 165] 0.999999
+[GOOD][Test 166] 0.999962
+[GOOD][Test 167] 2.03488e-006
+[GOOD][Test 168] 0.96563
+[GOOD][Test 169] 8.68908e-005
+[GOOD][Test 170] 0.999998
+[GOOD][Test 171] 0.000545503
+[GOOD][Test 172] 0.942458
+[GOOD][Test 173] 3.24411e-006
+[GOOD][Test 174] 0.947007
+[GOOD][Test 175] 0.995354
+[GOOD][Test 176] 0.99997
+[GOOD][Test 177] 0.943531
+[GOOD][Test 178] 1.47036e-005
+[GOOD][Test 179] 0.999986
+[GOOD][Test 180] 6.33946e-006
+[GOOD][Test 181] 0.999904
+[GOOD][Test 182] 4.62168e-005
+[GOOD][Test 183] 2.54402e-006
+[GOOD][Test 184] 0.0195443
+[GOOD][Test 185] 0.999998
+[GOOD][Test 186] 0.999998
+[GOOD][Test 187] 0.959644
+[GOOD][Test 188] 0.0255096
+[GOOD][Test 189] 0.999945
+[GOOD][Test 190] 3.62089e-006
+[GOOD][Test 191] 0.999999
+[GOOD][Test 192] 0.0227571
+[GOOD][Test 193] 0.991597
+[GOOD][Test 194] 0.066379
+[GOOD][Test 195] 0.999993
+[GOOD][Test 196] 0.998033
+[GOOD][Test 197] 0.0592694
+[GOOD][Test 198] 6.41348e-005
+[GOOD][Test 199] 0.136901
+[GOOD][Test 200] 0.999992
+[GOOD][Test 201] 8.60038e-006
+[GOOD][Test 202] 2.57795e-006
+[GOOD][Test 203] 0.0520711
+[GOOD][Test 204] 0.00137805
+[GOOD][Test 205] 3.06291e-005
+[GOOD][Test 206] 0.0447277
+[GOOD][Test 207] 0.999898
+[GOOD][Test 208] 0.902416
+[GOOD][Test 209] 0.999912
+[GOOD][Test 210] 0.00215989
+[GOOD][Test 211] 0.999968
+[GOOD][Test 212] 0.999973
+[GOOD][Test 213] 0.000100661
+[GOOD][Test 214] 0.999968
+[GOOD][Test 215] 0.973603
+[GOOD][Test 216] 0.0301673
+[GOOD][Test 217] 8.12742e-006
+[GOOD][Test 218] 0.00088513
+[GOOD][Test 219] 0.0038872
+[GOOD][Test 220] 0.922292
+[GOOD][Test 221] 0.987316
+[GOOD][Test 222] 0.999855
+[GOOD][Test 223] 5.04677e-005
+[GOOD][Test 224] 0.00257617
+[GOOD][Test 225] 0.0346743
+[GOOD][Test 226] 0.945014
+[GOOD][Test 227] 0.150239
+[GOOD][Test 228] 0.999842
+[GOOD][Test 229] 0.992875
+[GOOD][Test 230] 0.99997
+[GOOD][Test 231] 0.999657
+[GOOD][Test 232] 0.967273
+[GOOD][Test 233] 0.99649
+[GOOD][Test 234] 0.99244
+[GOOD][Test 235] 0.99962
+[GOOD][Test 236] 0.999999
+[GOOD][Test 237] 0.999998
+[GOOD][Test 238] 0.977573
+[GOOD][Test 239] 0.999992
+[GOOD][Test 240] 0.977782
+[GOOD][Test 241] 0.948936
+[GOOD][Test 242] 0.998212
+[GOOD][Test 243] 0.954628
+[GOOD][Test 244] 0.999992
+[GOOD][Test 245] 0.999998
+[GOOD][Test 246] 0.99992
+[GOOD][Test 247] 0.948421
+[GOOD][Test 248] 0.98671
+[GOOD][Test 249] 0.974798
+[GOOD][Test 250] 0.999997
+[GOOD][Test 251] 0.999801
+[GOOD][Test 252] 0.999799
+
+Success rate: 248/254 (97.6378%)

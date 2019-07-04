@@ -1,0 +1,1 @@
+g++ main.cpp neuron.cpp -o solver.exe -O3
